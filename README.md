@@ -1,2 +1,2 @@
 # IgboNER
-Named Entity Recognition: a focus on Igbo Language
+A repository for Named Entity Recognition Projects: a focus on Igbo Language
